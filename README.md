@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/53a26caf-d583-4b5b-856e-6c74e3a756aa/thumbnail" >
+</p>
 
 <!--
 **timothydlw/timothydlw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
